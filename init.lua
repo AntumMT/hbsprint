@@ -1,7 +1,7 @@
 -- Vars
 
-local speed = tonumber(minetest.settings:get("sprint_speed")) or 1.3
-local jump = tonumber(minetest.settings:get("sprint_jump")) or 1.1
+local speed = tonumber(minetest.settings:get("sprint_speed")) or 1.5
+local jump = tonumber(minetest.settings:get("sprint_jump")) or 1.3
 local key = minetest.settings:get("sprint_key") or "Use"
 local dir = minetest.settings:get_bool("sprint_forward_only") ~= false
 local particles = tonumber(minetest.settings:get("sprint_particles")) or 2

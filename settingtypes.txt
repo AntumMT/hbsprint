@@ -1,8 +1,8 @@
 #Sprint speed multiplier
-sprint_speed (Sprint speed multiplier) float 1.3
+sprint_speed (Sprint speed multiplier) float 1.5
 
 #Sprint jump multiplier
-sprint_jump (Sprint jump multiplier) float 1.1
+sprint_jump (Sprint jump multiplier) float 1.3
 
 #Use a key to sprint
 sprint_key (Sprint key) enum Use Use
